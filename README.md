@@ -1,0 +1,2 @@
+# practice-selenium
+seleniumを使ってAmazonにログインをするコード
